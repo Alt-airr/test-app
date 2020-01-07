@@ -1,0 +1,58 @@
+.form-group {
+    text-align: center;
+    margin: 0  auto;
+}
+
+.auth {
+    margin: 0 auto;
+    flex-wrap: wrap;
+    width: 400px;
+}
+
+input {
+    padding: 10px;
+    width: 350px;}
+
+.form {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn {
+    background-color: rgba(36, 41, 44, .9);
+    border: none;
+    width: 400px;
+    text-align: center;
+    padding: 14px;
+    border-radius: 4px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.row {
+    margin-top: 5px;
+}
+.btns {
+    margin-top: 40px;
+    width: 85%;
+}
+
+button {
+    margin-top: 15px;
+    cursor: pointer;
+}
+.fb {
+    background-color: rgb(51, 89, 157);
+    margin-top: 5px;
+    cursor: pointer;
+}
+.input {
+    background: rgba(241, 241, 241, .7);
+    width: 90%;
+    padding: 14px;
+    border-radius: 4px;
+    border: 0;
+    color: #3E3E3E;
+    margin-top: 5px;
+}

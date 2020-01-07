@@ -1,0 +1,25 @@
+
+.app-wrapper {
+  background-color: lightgray;
+  font: 12px/20px 'Lucida Grande', Verdana, sans-serif;
+  color: #404040;
+}
+
+.app-wrapper-page {
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.app-wrapper-content {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #1D8EEA}
+
+
+
+
+
+

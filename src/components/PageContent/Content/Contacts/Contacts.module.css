@@ -1,0 +1,29 @@
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 850px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.userItem {
+    max-width: 220px;
+    min-height: 250px;
+    background: #288FBC;
+    background-clip: padding-box;
+    border-radius: 4px;
+@include box-sizing(border-box);
+    -webkit-box-shadow: 0px 0px 7px 5px rgba(0,0,0,0.23);
+    box-shadow: 0px 0px 7px 5px rgba(0,0,0,0.23);
+    padding: 30px;
+    box-sizing: border-box;
+    color: whitesmoke;
+    margin:20px;
+    }
+
+
+.userPhoto {
+    max-width: 200px;
+    -webkit-box-shadow: 0px 0px 7px 5px rgba(0,0,0,0.23);
+    box-shadow: 0px 0px 7px 5px rgba(0,0,0,0.23);
+}
+

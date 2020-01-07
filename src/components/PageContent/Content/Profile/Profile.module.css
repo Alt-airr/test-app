@@ -1,0 +1,48 @@
+
+.profile {
+    max-width: 420px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    background: #015D8C;
+
+    background-clip: padding-box;
+    border-radius: 4px;
+@include box-sizing(border-box);
+    -webkit-box-shadow: 0px 0px 7px 5px rgba(0,0,0,0.23);
+    box-shadow: 0px 0px 7px 5px rgba(0,0,0,0.23);
+    min-height: 320px;
+
+
+}
+
+
+
+.ava {
+    max-width: 400px;
+    border: 1px solid grey;
+    margin: 5px 5px 30px 5px;
+    -webkit-box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.23);
+    box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.23);
+    border-radius: 50%;
+}
+
+.row {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: whitesmoke;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 4px;
+    max-width: 350px;
+    background: #65b5b5;
+    border-top: 1px solid grey;
+}
+
+.description span {
+    text-transform: none;
+    font-weight: 400
+}
+

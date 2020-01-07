@@ -1,0 +1,32 @@
+
+.mainInfo {
+    max-width: 500px;
+    background: #114471;
+    padding: 30px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    color: #FFF;
+    margin-top: 20px;
+    box-shadow: 0px 2px 18px -4px rgba(0,0,0,0.75);}
+
+
+.row{
+    padding: 8px;
+    text-align: center;
+    border-radius: 3px;
+    max-width: 450px;
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+    overflow: hidden;
+    margin-bottom: 3px;
+    background: #65b5b5}
+
+.row span {
+    color: #262626;
+    font-weight: bold;
+}
+
+
+
+
